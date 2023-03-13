@@ -1,0 +1,44 @@
+.color-grey{
+    background-color: gray;
+    color: white;
+}
+.modalheader{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.color-green{
+    background-color: green;
+    color: white;
+}
+.color-blue{
+    background-color: blue;
+    color: white;
+}
+.color-white{
+    background-color: black;
+    color: white;
+}
+.Modalbody{
+    background-color: #D6E4E5;
+}
+  .input-options-description {
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .input-options-description h2 {
+    margin-top: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .input-options-description p {
+    margin-bottom: 15px;
+  }
+      
